@@ -4,6 +4,8 @@ import React from "react"
 import { render } from "react-dom"
 import { withFormik, Form, Field } from "formik"
 import { Tab, Tabs, TabList, TabPanel } from "react-tabs"
+import Typography from 'material-ui/Typography';
+import { withStyles } from 'material-ui/styles';
 import Yup from "yup"
 
 
