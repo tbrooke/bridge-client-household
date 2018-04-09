@@ -9,6 +9,7 @@
     "react": "16.0.0",
     "react-dom": "16.0.0",
     "react-tabs": "2.2.1",
+
     "yup": "0.23.0"
   },
   "devDependencies": {
