@@ -3,10 +3,14 @@
   "description": null,
   "version": "0.0.15",
   "dependencies": {
-    "yup": "0.23.0",
-    "react-dom": "16.0.0",
+    "@material-ui/icons": "^1.0.0-beta.42",
+    "formik": "0.10.4",
+    "jshint": "^2.9.5",
+    "material-ui": "^1.0.0-beta.41",
     "react": "16.0.0",
-    "formik": "0.10.4"
+    "react-dom": "16.0.0",
+    "react-tabs": "^2.2.1",
+    "yup": "0.23.0"
   },
   "devDependencies": {
     "react-scripts": "1.0.0"
