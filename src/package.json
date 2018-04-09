@@ -1,0 +1,14 @@
+{
+  "name": "bridge-client-households",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "formik": "0.10.4",
+    "react": "16.0.0",
+    "react-dom": "16.0.0",
+    "react-tabs": "2.2.1",
+    "yup": "0.23.0"
+  }
+}
